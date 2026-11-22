@@ -1,0 +1,17 @@
+# Build files
+build/
+
+# Installer output
+installer/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.log
+
+# VS Code settings
+.vscode/
